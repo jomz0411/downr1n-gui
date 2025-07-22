@@ -3,3 +3,4 @@
 
 sudo systemctl stop usbmuxd
 sudo usbmuxd -p -f
+
